@@ -1,0 +1,33 @@
+{
+	"rfb": "1",
+	"fontName":  "GanjNamehSans",
+	"fontVersion": "0.0.1",
+	"fontMeta": {
+        "Copyright": "Copyright (c) 2016 Copyright Holder (info@font-store.ir), with Reserved Font Name \"Ganjnameh\" \n\r Ganjnameh is a new redesign of Iranian Font Family by Neviseh Pardaz Co. Ltd. (www.nevisa.com), Hooman Mehr, Hadi Navid",
+        "License": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+        "LicenseURL": "http://scripts.sil.org/OFL",
+        "Designer": "Mohammad Saleh Souzanchi",
+        "DesignerURL": "http://soozanchi.ir",
+        "Trademark" : "Farbod is a trademark of Persian Font Store"
+	},
+    "fontWeights": {
+        "Regular": {
+            "src": "GanjNamehSans-Regular.sfd"
+        }
+    },
+	"dirs": {
+		"src": "sources",
+		"dist": "dist",
+		"watching": "watching",
+        "svg": "svg",
+        "temp": "tmp"
+	},
+    "automation":{
+        "engine": "ff",
+        "autoCreate": true,
+        "autoMark": true,
+        "autoMarkMode": "build",
+        "autoKern": true,
+        "autoKernMode": "build"        
+    } 
+}
