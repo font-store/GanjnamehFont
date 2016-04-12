@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'GanjNamehSansWeb';
+    src:url('GanjNamehSans-Regular.woff') format('woff2'),
+    url('GanjNamehSans-Regular.woff') format('woff'),
+    url('GanjNamehSans-Regular.otf') format('opentype') ,
+    url('GanjNamehSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TestFont';
+    src:url('GanjNamehSans-Regular.woff') format('woff2'),
+    url('GanjNamehSans-Regular.woff') format('woff'),
+    url('GanjNamehSans-Regular.otf') format('opentype') ,
+    url('GanjNamehSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
