@@ -14,13 +14,19 @@ Iranian Font family is discontinued develop and support
 
 # Status:
  version : v0.0.1   
+ 
  demo : [here](http://font-store.github.io/font-GanjNameh/online/)
+ 
+صفحه مقایسه با دیگر فونت‌‌های آزاد :  [here](http://font-store.github.io/font-GanjNameh/compair/)
+
 
 
 # identity of project :
 
 Classifaction : Sans & Serif & MonoSpace
+
 Origin Designers : Hooman Mehr, Hadi Navid.
+
 ReDesigner : [Mohammad Saleh Souzanchi](http://github.com/zoghal/)
 
 
@@ -29,6 +35,7 @@ ReDesigner : [Mohammad Saleh Souzanchi](http://github.com/zoghal/)
  این خانواده فونت گنجنامه بازطراحی شده فونت ایرانین می‌باشد.
 
 این بازطراحی حدود ۱.۵ سال پیش انجام شده بود اما به دلایلی صلاح نبود منتشر شود. تا به امروز که در فهرست ۲۰ فونت آزاد قرار گرفت با یک هویت جدید.
+
 
 # درباره فونت
 
@@ -41,7 +48,9 @@ ReDesigner : [Mohammad Saleh Souzanchi](http://github.com/zoghal/)
 
 # وضعیت توسعه
 
-گنجنامه تازه در صورت مشاهده هرگونه اشکال لطفا آن را گزارش نمایید.
+گنجنامه در حال توسعه می‌باشد. لطفا تستش و نظرتان را با ما در میان بگذارید.(ناراحت میشیم اگر تعارف کنید، و نظرتون رو به ما نگویید‌ها :دی .)
+
+  در صورت مشاهده هرگونه مشکل، نقص، یا پیشنهاد و انتقاد  لطفا آن را با ما درمیان بگذارید.
 
 # برنامه توسعه
 
@@ -60,7 +69,6 @@ ReDesigner : [Mohammad Saleh Souzanchi](http://github.com/zoghal/)
 
 جهت حمایت مالی هم می‌توانید از طریق این [لینک]   (https://www.payping.ir/d/a5ou) اقدام نمایید.
 
-** سیستم جذب حمایت مالی در حال دولوپ شدند هست. متاسفانه فعلا به صورت دستی نتایج حمایت مالی را بروز می‌نمایم.
 
 ## بزرگوارانی که گنجنامه رو مورد حمایت خود  قرار دادند:
 
