@@ -8,15 +8,25 @@ viewBox="0 0 1300 1056"
   <style type="text/css">
    <![CDATA[
     .fil0 {fill:black;fill-opacity:0.501961}
+    .fil1 {fill:#1A1A1A;fill-opacity:0.501961}
    ]]>
   </style>
  </defs>
- <g id="_100:master">
+ <g id="_100:master" visibility="hidden">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g id="Regular-g.ree.fina.svg">
    <g>
     <path class="fil0" d="M855 393c16,22 31,53 43,92 5,13 8,26 11,38 2,4 5,7 7,10 7,9 17,17 30,25 14,8 31,12 52,12l0 80c-33,0 -61,-5 -83,-16 -3,22 -10,44 -18,66 -16,34 -33,63 -53,88 -41,49 -78,84 -113,107l-22 14 -48 -65c14,-9 33,-24 56,-45 24,-21 43,-41 59,-59 15,-19 29,-41 42,-68 13,-26 19,-51 19,-75 0,-24 -4,-48 -12,-74 -9,-26 -17,-46 -25,-60l-13 -21 68 -49z"/>
    </g>
   </g>
+ </g>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil0" d="M958 605l-30 -175c28,64 60,139 174,139l0 81c-72,0 -120,-15 -144,-45z"/>
+  <path class="fil1" d="M912 392c116,270 82,326 -146,517l-48 -65c161,-131 185,-185 186,-217 0,-29 -8,-77 -60,-186l68 -49z"/>
+ </g>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <path class="fil0" d="M923 427l0 0c3,6 6,12 9,18 30,59 75,124 178,124l0 81c-64,0 -109,-12 -135,-36 0,141 -142,262 -326,312l-19 -78c113,-30 265,-117 272,-225 3,-41 -16,-93 -69,-181l70 -51c8,13 14,24 20,36z"/>
  </g>
 </svg>
