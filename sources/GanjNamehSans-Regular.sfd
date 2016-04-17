@@ -5,7 +5,7 @@ FamilyName: GanjNamehSans
 Weight: Regular
 Copyright: Copyright (c) 2016 Copyright Holder (info@font-store.ir), with Reserved Font Name "Ganjnameh" \n\n Ganjnameh is a new redesign of Iranian Font Family by Neviseh Pardaz Co. Ltd. (www.nevisa.com), Hooman Mehr, Hadi Navid
 UComments: "2015-5-13: Created with FontForge (http://fontforge.org)"
-Version: Version:0.0.2;RFB:1.2.5;Building:2016-04-15 11:18:51.002250
+Version: Version:0.0.3;RFB:1.2.5;Building:2016-04-17 15:37:27.519176
 FONDName: RITA
 ItalicAngle: 0
 UnderlinePosition: 500
@@ -25,7 +25,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1431477301
-ModificationTime: 1460702931
+ModificationTime: 1460891247
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -71,7 +71,7 @@ Lookup: 262 1 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2-1
 Lookup: 258 1 0 "kernHorizontal" { "kernZeh"  "kernZheh subtable"  } ['kern' ('DFLT' <'dflt' > 'arab' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "Rita Font Builder v1 : GanjNamehSans Regular" "" "Version:0.0.2;RFB:1.2.5;Building:2016-04-15 11:18:51.002250" "" "GanjNameh is a trademark of Persian Font Store" "http://font-store.ir" "Mohammad Saleh Souzanchi" "" "http://font-store.ir" "http://soozanchi.ir" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL" "" "GanjNamehSans" "" "GanjNamehSans Regular"
+LangName: 1033 "" "" "" "Rita Font Builder v1 : GanjNamehSans Regular" "" "Version:0.0.3;RFB:1.2.5;Building:2016-04-17 15:37:27.519176" "" "GanjNameh is a trademark of Persian Font Store" "http://font-store.ir" "Mohammad Saleh Souzanchi" "" "http://font-store.ir" "http://soozanchi.ir" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL" "" "GanjNamehSans" "" "GanjNamehSans Regular"
 GaspTable: 2 8 8 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -79,7 +79,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 13 13 7
+WinInfo: 156 13 7
 BeginPrivate: 7
 StemSnapH 5 [100]
 StemSnapV 24 [50 65 69 80 89 101 280]
@@ -214,7 +214,7 @@ EndChar
 StartChar: _.beh.fina
 Encoding: 65541 -1 5
 GlifName: _.beh.fina
-Width: 1044
+Width: 1031
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -222,22 +222,23 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-819 72 m 1
- 748 6 583 0 390 -0 c 0
+804 61 m 1
+ 729 6 570 0 390 -0 c 0
  193 0 64 36 64 189 c 0
  64 238 78 298 106 374 c 1
  188 349 l 1
  165 294 152 249 152 214 c 0
  152 131 225 100 416 100 c 0
- 624 100 760 112 776 183 c 1
- 759 295 l 1
- 847 319 l 1
- 860 220 l 2
- 871 144 915 100 990 100 c 2
- 1044 100 l 1
- 1044 -0 l 1
- 990 -0 l 2
- 904 0 851 26 819 72 c 1
+ 625 100 763 113 777 184 c 1
+ 788 301 l 1
+ 873 296 l 1
+ 865 192 l 2
+ 865 189 865 187 865 184 c 0
+ 865 114 927 100 1008 100 c 2
+ 1031 100 l 1
+ 1031 -0 l 1
+ 1008 -0 l 2
+ 901 0 837 20 804 61 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -302,7 +303,7 @@ EndChar
 StartChar: _.heh.isol
 Encoding: 65544 -1 8
 GlifName: _.heh.isol
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -310,24 +311,27 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-654 -347 m 1
- 568 -371 493 -381 424 -381 c 0
- 188 -381 64 -252 64 -104 c 0
- 64 46 189 208 421 283 c 1
- 331 320 264 362 222 362 c 0
- 208 362 197 357 188 347 c 2
- 123 271 l 1
- 64 320 l 1
- 151 429 l 2
- 172 456 197 467 225 467 c 0
- 326 467 476 330 692 324 c 1
- 704 324 l 1
- 693 224 l 1
- 684 224 675 224 666 225 c 0
- 355 223 155 50 155 -99 c 0
- 155 -196 251 -281 428 -281 c 0
- 487 -281 554 -271 629 -253 c 1
- 654 -347 l 1
+686 -360 m 1
+ 580 -388 496 -400 415 -400 c 0
+ 178 -400 64 -268 64 -117 c 0
+ 64 36 180 206 401 280 c 1
+ 359 294 314 312 262 330 c 0
+ 247 335 235 337 225 337 c 0
+ 201 337 188 325 177 308 c 2
+ 155 274 l 1
+ 97 312 l 1
+ 143 386 l 2
+ 165 422 188 445 225 445 c 0
+ 242 445 261 441 284 431 c 0
+ 459 360 595 320 719 320 c 0
+ 724 320 730 320 735 320 c 1
+ 714 220 l 1
+ 693 220 674 220 654 221 c 1
+ 614 221 l 1
+ 315 203 155 35 155 -106 c 0
+ 155 -211 244 -301 431 -301 c 0
+ 495 -301 572 -290 662 -264 c 1
+ 686 -360 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -335,7 +339,7 @@ EndChar
 StartChar: _.heh.fina
 Encoding: 65545 -1 9
 GlifName: _.heh.fina
-Width: 805
+Width: 815
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -343,30 +347,32 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-654 -347 m 1
- 568 -371 493 -381 424 -381 c 0
- 188 -381 64 -252 64 -104 c 0
- 64 46 189 208 421 283 c 1
- 331 320 264 362 222 362 c 0
- 208 362 197 357 188 347 c 2
- 123 271 l 1
- 64 320 l 1
- 151 429 l 2
- 172 456 197 467 225 467 c 0
- 326 467 476 330 692 324 c 1
- 704 324 l 1
- 693 224 l 1
- 684 224 675 224 666 225 c 0
- 643 225 619 223 597 221 c 1
- 622 126 659 100 750 100 c 2
- 805 100 l 1
- 805 -0 l 1
- 752 -0 l 2
- 561 0 532 85 504 207 c 1
- 288 159 155 21 155 -99 c 0
- 155 -196 251 -281 428 -281 c 0
- 487 -281 554 -271 629 -253 c 1
- 654 -347 l 1
+686 -360 m 1
+ 580 -388 496 -400 415 -400 c 0
+ 178 -400 64 -268 64 -117 c 0
+ 64 36 180 206 401 280 c 1
+ 359 294 314 312 262 330 c 0
+ 247 335 235 337 225 337 c 0
+ 201 337 188 325 177 308 c 2
+ 155 274 l 1
+ 97 312 l 1
+ 143 386 l 2
+ 165 422 188 445 225 445 c 0
+ 242 445 261 441 284 431 c 0
+ 459 360 595 320 719 320 c 0
+ 724 320 730 320 735 320 c 1
+ 714 220 l 1
+ 693 220 674 220 654 221 c 1
+ 609 221 l 1
+ 626 167 663 100 752 100 c 2
+ 815 100 l 1
+ 815 -0 l 1
+ 753 -0 l 2
+ 587 0 557 86 526 209 c 1
+ 284 167 155 18 155 -108 c 0
+ 155 -212 244 -301 431 -301 c 0
+ 495 -301 572 -290 662 -264 c 1
+ 686 -360 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -374,7 +380,7 @@ EndChar
 StartChar: _.heh.medi
 Encoding: 65546 -1 10
 GlifName: _.heh.medi
-Width: 833
+Width: 823
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -385,22 +391,25 @@ SplineSet
 -50 49 m 0
  -50 76 -27 100 -1 100 c 2
  137 100 l 2
- 339 100 383 198 486 264 c 1
- 371 305 289 361 240 361 c 0
- 226 361 215 357 206 347 c 2
- 141 271 l 1
- 82 320 l 1
- 169 429 l 2
- 190 456 215 467 243 467 c 0
- 346 467 499 324 722 324 c 1
- 711 224 l 1
- 675 224 644 220 617 213 c 1
- 642 126 678 100 767 100 c 2
- 833 100 l 1
- 833 -0 l 1
- 770 -0 l 2
- 596 0 556 70 529 175 c 1
- 424 110 371 0 133 -0 c 2
+ 307 100 384 189 481 253 c 1
+ 415 275 347 306 249 340 c 0
+ 234 345 222 347 212 347 c 0
+ 188 347 175 334 165 317 c 2
+ 143 284 l 1
+ 85 322 l 1
+ 131 397 l 2
+ 152 433 175 455 212 455 c 0
+ 229 455 249 451 273 441 c 0
+ 454 367 541 320 743 320 c 1
+ 722 220 l 1
+ 681 220 l 2
+ 658 220 639 218 619 213 c 1
+ 637 161 675 100 760 100 c 2
+ 823 100 l 1
+ 823 -0 l 1
+ 761 -0 l 2
+ 608 0 569 74 541 181 c 1
+ 435 118 365 0 145 -0 c 2
  -1 -0 l 2
  -25 0 -50 24 -50 49 c 0
 EndSplineSet
@@ -410,7 +419,7 @@ EndChar
 StartChar: _.heh.init
 Encoding: 65547 -1 11
 GlifName: _.heh.init
-Width: 786
+Width: 807
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -421,16 +430,19 @@ SplineSet
 -50 49 m 0
  -50 76 -27 100 -1 100 c 2
  137 100 l 2
- 339 100 383 198 486 264 c 1
- 371 305 289 361 240 361 c 0
- 226 361 215 357 206 347 c 2
- 141 271 l 1
- 82 320 l 1
- 169 429 l 2
- 190 456 215 467 243 467 c 0
- 346 467 499 324 722 324 c 1
- 711 224 l 1
- 436 224 473 0 133 -0 c 2
+ 307 100 384 189 481 253 c 1
+ 415 275 347 306 249 340 c 0
+ 234 345 222 347 212 347 c 0
+ 188 347 175 334 165 317 c 2
+ 143 284 l 1
+ 85 322 l 1
+ 131 397 l 2
+ 152 433 175 455 212 455 c 0
+ 229 455 249 451 273 441 c 0
+ 454 367 541 320 743 320 c 1
+ 722 220 l 1
+ 681 220 l 2
+ 466 220 445 0 145 -0 c 2
  -1 -0 l 2
  -25 0 -50 24 -50 49 c 0
 EndSplineSet
@@ -940,7 +952,7 @@ EndChar
 StartChar: _.ein.isol
 Encoding: 65560 -1 24
 GlifName: _.ein.isol
-Width: 718
+Width: 750
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -948,24 +960,26 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-654 -347 m 1
- 568 -371 493 -381 424 -381 c 0
- 188 -381 64 -252 64 -104 c 0
- 64 -2 122 105 231 187 c 1
- 153 233 106 331 106 422 c 0
- 106 525 165 619 307 619 c 0
- 364 619 434 605 518 569 c 1
- 483 475 l 1
- 415 497 362 507 321 507 c 0
- 236 507 205 466 205 417 c 0
- 205 350 263 267 325 252 c 1
- 549 317 l 1
- 581 225 l 1
- 491 193 380 175 309 128 c 0
- 211 65 155 -19 155 -99 c 0
- 155 -196 251 -281 428 -281 c 0
- 487 -281 554 -271 629 -253 c 1
- 654 -347 l 1
+686 -360 m 1
+ 581 -388 496 -400 415 -400 c 0
+ 178 -400 64 -267 64 -114 c 0
+ 64 -6 122 112 233 199 c 1
+ 180 252 149 318 139 377 c 0
+ 137 391 135 405 135 418 c 0
+ 135 550 252 613 387 613 c 0
+ 427 613 468 608 509 597 c 1
+ 487 503 l 1
+ 460 508 434 510 410 510 c 0
+ 313 510 246 475 235 439 c 0
+ 234 434 234 430 234 425 c 0
+ 234 363 278 286 327 252 c 1
+ 371 272 431 285 555 306 c 1
+ 555 218 l 1
+ 391 188 331 152 290 122 c 0
+ 201 57 155 -27 155 -104 c 0
+ 155 -210 244 -301 431 -301 c 0
+ 495 -301 572 -290 662 -264 c 1
+ 686 -360 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -973,7 +987,7 @@ EndChar
 StartChar: _.ein.fina
 Encoding: 65561 -1 25
 GlifName: _.ein.fina
-Width: 666
+Width: 695
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -981,26 +995,26 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-654 -347 m 1
- 568 -371 493 -381 424 -381 c 0
- 188 -381 64 -252 64 -104 c 0
- 64 15 144 142 292 226 c 1
- 292 231 l 1
- 278 273 242 300 187 300 c 0
- 174 300 159 298 142 295 c 1
- 115 389 l 1
- 202 439 290 460 364 460 c 0
- 464 460 534 424 534 362 c 0
- 534 298 487 240 421 193 c 1
- 462 145 517 100 604 100 c 2
- 666 100 l 1
- 666 -0 l 1
- 590 -0 l 2
- 460 0 383 73 336 144 c 1
- 222 79 155 -13 155 -99 c 0
- 155 -196 251 -281 428 -281 c 0
- 487 -281 554 -271 629 -253 c 1
- 654 -347 l 1
+685 -360 m 1
+ 580 -388 496 -400 415 -400 c 0
+ 177 -400 64 -267 64 -114 c 0
+ 64 9 138 144 280 232 c 1
+ 264 274 233 300 177 300 c 0
+ 164 300 148 298 131 295 c 1
+ 104 389 l 1
+ 191 439 280 460 354 460 c 0
+ 454 460 524 424 524 362 c 0
+ 524 301 480 244 416 198 c 1
+ 466 148 534 100 624 100 c 2
+ 695 100 l 1
+ 695 -0 l 1
+ 609 -0 l 2
+ 477 0 386 73 331 146 c 1
+ 319 140 l 1
+ 211 73 155 -21 155 -105 c 0
+ 155 -211 244 -301 431 -301 c 0
+ 495 -301 572 -290 662 -264 c 1
+ 685 -360 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1040,7 +1054,7 @@ EndChar
 StartChar: _.ein.init
 Encoding: 65563 -1 27
 GlifName: _.ein.init
-Width: 612
+Width: 545
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1049,21 +1063,20 @@ LayerCount: 2
 Fore
 SplineSet
 -50 50 m 0
- -50 76 -26 100 -1 100 c 0
- 16 100 34 99 51 99 c 0
- 85 99 119 100 152 103 c 1
- 102 154 73 230 73 302 c 0
- 73 405 132 499 273 499 c 0
- 330 499 400 484 484 448 c 1
- 450 354 l 1
- 382 377 328 386 287 386 c 0
- 202 386 172 346 172 297 c 0
- 172 230 230 148 291 133 c 1
- 515 197 l 1
- 548 104 l 1
- 386 49 l 1
- 302 27 193 0 82 -0 c 2
- -2 -0 l 1
+ -49 76 -25 100 0 100 c 0
+ 53 100 99 103 138 109 c 1
+ 97 158 73 214 64 267 c 0
+ 62 281 61 295 61 308 c 0
+ 61 440 178 503 314 503 c 0
+ 353 503 395 498 435 487 c 1
+ 413 394 l 1
+ 386 399 360 401 336 401 c 0
+ 239 401 171 366 161 330 c 0
+ 160 325 160 320 160 315 c 0
+ 160 249 208 168 261 138 c 1
+ 329 156 394 177 481 188 c 1
+ 481 100 l 1
+ 347 78 239 0 -2 -0 c 0
  -27 1 -50 24 -50 50 c 0
 EndSplineSet
 Colour: ffda6b
@@ -1087,19 +1100,21 @@ SplineSet
  152 131 225 100 416 100 c 0
  580 100 772 118 772 207 c 0
  772 210 772 213 772 216 c 1
- 741 208 700 200 659 200 c 0
- 581 200 504 230 503 340 c 0
- 503 474 587 564 673 564 c 0
- 766 564 863 459 863 188 c 0
- 863 185 863 183 863 180 c 0
+ 742 207 703 200 665 200 c 0
+ 663 200 661 200 659 200 c 0
+ 580 200 484 229 484 340 c 0
+ 489 498 573 599 667 599 c 0
+ 782 599 863 484 863 193 c 0
+ 863 189 863 184 863 180 c 0
  861 30 620 0 413 -0 c 0
  405 0 398 0 390 -0 c 0
  193 0 64 36 64 189 c 0
-594 354 m 0
- 594 312 627 300 667 300 c 0
- 698 300 734 308 761 314 c 1
- 740 414 698 454 661 454 c 0
- 625 454 594 414 594 354 c 0
+575 354 m 0
+ 575 313 625 300 663 300 c 0
+ 665 300 667 300 669 300 c 0
+ 702 300 739 309 767 316 c 1
+ 750 445 707 501 665 501 c 0
+ 631 501 575 446 575 354 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1107,7 +1122,7 @@ EndChar
 StartChar: _.feh.fina
 Encoding: 65565 -1 29
 GlifName: _.feh.fina
-Width: 1029
+Width: 1078
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1115,29 +1130,30 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-650 119 m 1
- 612 153 584 197 584 257 c 0
- 584 357 690 500 779 500 c 0
- 876 500 947 345 947 287 c 0
- 947 230 917 172 868 124 c 1
- 921 108 976 100 1023 100 c 2
- 1029 100 l 1
- 1029 -0 l 1
- 1011 -0 l 2
- 941 0 845 14 761 50 c 1
- 671 9 536 0 413 -0 c 0
- 405 0 398 0 390 -0 c 0
- 193 0 64 36 64 189 c 0
+64 189 m 0
  64 238 78 298 106 374 c 1
  188 349 l 1
  165 294 152 249 152 214 c 0
  152 131 225 100 416 100 c 0
  496 100 582 104 650 119 c 1
-676 271 m 1
- 680 230 715 194 764 167 c 1
- 824 203 858 242 858 262 c 0
- 858 287 807 379 773 379 c 0
- 740 379 681 304 676 271 c 1
+ 608 153 583 194 583 240 c 0
+ 583 380 683 516 784 516 c 0
+ 891 516 967 369 967 287 c 0
+ 967 284 968 281 968 278 c 0
+ 968 221 932 168 878 123 c 1
+ 930 108 989 100 1052 100 c 2
+ 1078 100 l 1
+ 1078 -0 l 1
+ 1040 -0 l 2
+ 945 0 845 19 764 52 c 1
+ 674 11 537 0 413 -0 c 0
+ 405 0 398 0 390 -0 c 0
+ 193 0 64 36 64 189 c 0
+676 265 m 0
+ 676 230 710 195 768 165 c 1
+ 833 201 875 241 880 261 c 1
+ 866 326 827 400 783 400 c 0
+ 739 400 676 332 676 265 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1145,43 +1161,7 @@ EndChar
 StartChar: _.feh.medi
 Encoding: 65566 -1 30
 GlifName: _.feh.medi
-Width: 545
-VWidth: 1304
-GlyphClass: 1
-UnlinkRmOvrlpSave: 1
-Flags: HMW
-LayerCount: 2
-Fore
-SplineSet
-165 119 m 1
- 128 153 100 197 100 257 c 0
- 100 357 206 500 295 500 c 0
- 392 500 463 345 463 287 c 0
- 463 230 430 174 377 127 c 1
- 432 110 490 100 538 100 c 2
- 545 100 l 1
- 545 -0 l 1
- 527 -0 l 2
- 454 0 354 16 269 54 c 1
- 201 21 123 0 52 -0 c 2
- -1 -0 l 1
- -26 1 -50 24 -50 50 c 0
- -50 75 -26 100 -1 100 c 2
- 21 100 l 2
- 74 100 123 107 165 119 c 1
-191 271 m 1
- 196 230 231 194 281 167 c 1
- 341 203 374 242 375 262 c 0
- 375 287 323 379 289 379 c 0
- 256 379 196 304 191 271 c 1
-EndSplineSet
-Colour: ffda6b
-EndChar
-
-StartChar: _.feh.init
-Encoding: 65567 -1 31
-GlifName: _.feh.init
-Width: 466
+Width: 605
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1190,23 +1170,62 @@ LayerCount: 2
 Fore
 SplineSet
 -50 50 m 0
- -50 76 -26 100 0 100 c 2
- 202 100 l 2
- 251 100 312 124 312 177 c 0
- 312 191 312 204 311 216 c 1
- 280 208 238 200 197 200 c 0
- 119 200 43 229 42 340 c 0
- 42 474 126 564 212 564 c 0
- 305 564 402 459 402 188 c 0
- 402 185 402 183 402 180 c 0
- 402 56 323 0 202 -0 c 2
- 0 -0 l 2
- -26 0 -50 24 -50 50 c 0
-133 354 m 0
- 133 312 166 300 206 300 c 0
- 237 300 273 308 300 314 c 1
- 279 414 237 454 200 454 c 0
- 164 454 133 414 133 354 c 0
+ -50 75 -26 100 -1 100 c 2
+ 41 100 l 2
+ 85 100 128 107 167 118 c 1
+ 126 152 100 194 100 240 c 0
+ 100 380 199 516 300 516 c 0
+ 408 516 484 369 483 287 c 0
+ 483 283 484 280 484 276 c 0
+ 484 220 449 166 396 122 c 1
+ 448 108 506 100 569 100 c 2
+ 605 100 l 1
+ 605 -0 l 1
+ 557 -0 l 2
+ 461 0 362 19 281 52 c 1
+ 208 20 126 0 53 -0 c 2
+ -1 -0 l 1
+ -26 1 -50 24 -50 50 c 0
+191 264 m 0
+ 191 229 226 195 284 165 c 1
+ 349 201 392 241 396 261 c 1
+ 384 326 342 400 298 400 c 0
+ 256 400 191 331 191 264 c 0
+EndSplineSet
+Colour: ffda6b
+EndChar
+
+StartChar: _.feh.init
+Encoding: 65567 -1 31
+GlifName: _.feh.init
+Width: 495
+VWidth: 1304
+GlyphClass: 1
+UnlinkRmOvrlpSave: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-50 49 m 0
+ -50 76 -27 100 -1 100 c 2
+ 232 100 l 2
+ 281 100 342 124 342 177 c 2
+ 342 216 l 1
+ 312 209 272 200 233 200 c 0
+ 231 200 230 200 228 200 c 0
+ 149 200 52 229 52 340 c 0
+ 57 498 142 599 236 599 c 0
+ 351 599 431 484 431 193 c 0
+ 431 189 431 184 431 180 c 0
+ 431 56 353 0 232 -0 c 2
+ -1 -0 l 2
+ -25 0 -50 24 -50 49 c 0
+143 354 m 0
+ 143 313 194 300 232 300 c 0
+ 234 300 236 300 238 300 c 0
+ 271 300 307 309 335 316 c 1
+ 318 445 275 501 233 501 c 0
+ 199 501 143 446 143 354 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1260,23 +1279,23 @@ SplineSet
  223 170 l 1
  176 82 156 13 156 -41 c 0
  156 -157 248 -200 356 -200 c 0
- 507 -200 688 -115 690 -22 c 1
- 690 -0 l 1
+ 507 -200 689 -115 691 -22 c 1
+ 691 -0 l 1
  571 -0 l 1
- 495 1 421 30 421 140 c 0
- 421 274 504 364 590 364 c 0
- 669 364 750 288 773 100 c 1
+ 493 1 402 32 402 140 c 0
+ 406 298 490 400 585 400 c 0
+ 683 400 758 313 776 100 c 1
  879 100 l 1
  879 -0 l 1
- 780 -0 l 1
- 780 -6 781 -14 781 -20 c 0
+ 781 -0 l 1
+ 781 -20 l 1
  776 -192 555 -300 360 -300 c 0
  204 -300 64 -231 64 -68 c 0
-512 153 m 0
- 512 114 542 101 580 100 c 1
- 680 100 l 1
- 660 210 616 254 578 254 c 0
- 542 254 512 214 512 153 c 0
+491 157 m 1
+ 490 114 541 101 580 100 c 1
+ 686 100 l 1
+ 671 240 625 301 582 301 c 0
+ 542 301 502 248 491 157 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1706,7 +1725,7 @@ EndChar
 StartChar: _.mim.isol
 Encoding: 65584 -1 48
 GlifName: _.mim.isol
-Width: 742
+Width: 734
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1714,29 +1733,27 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-678 298 m 0
- 678 223 636 158 575 158 c 0
- 564 158 553 160 541 164 c 0
- 471 190 364 214 305 214 c 0
- 304 214 303 214 302 214 c 0
- 203 214 160 164 160 98 c 0
- 160 76 164 52 174 27 c 2
- 288 -265 l 1
- 201 -317 l 1
- 87 -5 l 2
- 72 34 64 74 64 111 c 0
- 64 200 110 275 220 305 c 1
- 245 317 266 338 283 369 c 2
- 340 466 l 2
- 392 552 439 560 486 560 c 0
- 594 560 678 412 678 298 c 0
-366 315 m 1
- 432 306 512 286 574 261 c 1
- 575 268 576 274 576 281 c 0
- 576 290 575 299 572 308 c 0
- 556 364 509 437 468 437 c 0
- 433 437 414 394 397 367 c 2
- 366 315 l 1
+64 157 m 0
+ 64 306 171 356 265 356 c 2
+ 540 356 l 1
+ 643 173 l 2
+ 661 141 670 115 670 93 c 0
+ 670 61 653 36 624 12 c 0
+ 564 -37 506 -58 457 -58 c 0
+ 363 -58 299 17 299 106 c 0
+ 299 155 318 208 363 256 c 1
+ 265 256 l 2
+ 180 256 163 205 163 165 c 0
+ 163 162 163 159 163 156 c 2
+ 199 -387 l 1
+ 100 -397 l 1
+ 65 135 l 2
+ 64 143 64 150 64 157 c 0
+403 119 m 0
+ 403 79 442 54 484 54 c 0
+ 517 54 552 69 572 103 c 1
+ 542 144 517 193 491 237 c 1
+ 427 190 403 150 403 119 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1744,7 +1761,7 @@ EndChar
 StartChar: _.mim.fina
 Encoding: 65585 -1 49
 GlifName: _.mim.fina
-Width: 862
+Width: 776
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1752,35 +1769,34 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-510 -96 m 0
- 412 -96 360 -10 360 78 c 0
- 360 137 381 199 416 248 c 1
- 389 252 360 255 332 255 c 0
- 278 255 228 245 199 216 c 0
- 173 190 160 153 160 113 c 0
- 160 88 165 63 174 38 c 2
- 286 -254 l 1
- 201 -305 l 1
- 86 6 l 2
- 72 45 64 86 64 125 c 0
- 64 189 84 250 130 293 c 0
- 182 342 259 358 338 358 c 0
- 383 358 429 353 472 345 c 1
- 444 393 l 1
- 525 450 l 1
- 675 196 l 2
- 725 110 771 100 862 100 c 1
- 862 -0 l 1
- 816 0 779 1 746 8 c 1
- 673 -33 591 -96 510 -96 c 0
-475 99 m 0
- 475 64 490 18 532 18 c 0
- 564 18 610 43 646 65 c 1
- 630 82 614 104 597 132 c 2
- 544 221 l 1
- 542 222 538 223 536 223 c 0
- 531 223 525 222 520 218 c 0
- 499 203 475 148 475 99 c 0
+64 157 m 0
+ 64 300 163 356 254 356 c 0
+ 258 356 261 356 265 356 c 2
+ 382 349 l 1
+ 358 393 l 1
+ 438 450 l 1
+ 589 196 l 2
+ 639 110 685 100 776 100 c 1
+ 776 -0 l 1
+ 700 0 643 4 594 36 c 1
+ 539 -35 477 -65 421 -65 c 0
+ 331 -65 258 9 258 102 c 0
+ 258 150 278 202 325 252 c 1
+ 265 256 l 2
+ 262 256 259 256 256 256 c 0
+ 179 256 163 204 163 165 c 0
+ 163 162 163 159 163 156 c 2
+ 199 -387 l 1
+ 102 -397 l 1
+ 65 135 l 2
+ 64 143 64 150 64 157 c 0
+367 112 m 0
+ 367 70 403 43 443 43 c 0
+ 474 43 507 59 529 97 c 1
+ 535 97 l 1
+ 528 108 519 118 510 132 c 2
+ 451 232 l 1
+ 390 187 367 145 367 112 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1788,7 +1804,7 @@ EndChar
 StartChar: _.mim.medi
 Encoding: 65586 -1 50
 GlifName: _.mim.medi
-Width: 714
+Width: 717
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1796,31 +1812,28 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-541 29 m 1
- 523 -19 479 -51 425 -51 c 0
- 364 -51 283 -17 182 46 c 1
- 140 14 85 0 23 -0 c 2
- 0 -0 l 1
- -25 1 -50 24 -50 50 c 0
+-50 50 m 0
  -49 75 -27 99 -2 100 c 1
  16 100 l 2
- 84 100 129 124 163 182 c 2
- 221 279 l 2
- 271 365 319 373 365 373 c 0
- 366 373 366 373 367 373 c 0
- 457 373 529 282 551 184 c 1
- 551 176 l 1
- 566 117 626 100 679 100 c 2
- 714 100 l 1
- 714 -0 l 1
- 679 -0 l 2
- 622 0 577 9 541 29 c 1
-422 57 m 0
- 448 57 459 70 459 97 c 0
- 459 150 418 249 353 251 c 0
- 315 251 293 208 277 181 c 2
- 250 135 l 1
- 290 103 374 57 422 57 c 0
+ 146 100 182 185 218 263 c 0
+ 258 351 311 387 362 387 c 0
+ 450 387 535 284 556 172 c 1
+ 573 115 628 100 681 100 c 2
+ 717 100 l 1
+ 717 -0 l 1
+ 681 -0 l 2
+ 623 0 576 10 542 31 c 1
+ 520 -6 483 -20 438 -20 c 0
+ 358 -20 257 22 184 48 c 1
+ 148 18 99 0 23 -0 c 2
+ 0 -0 l 1
+ -25 1 -50 24 -50 50 c 0
+247 128 m 1
+ 301 108 375 79 422 79 c 0
+ 450 79 468 89 468 117 c 0
+ 468 157 410 282 355 283 c 0
+ 338 283 318 258 301 226 c 0
+ 281 190 264 157 247 128 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1828,7 +1841,7 @@ EndChar
 StartChar: _.mim.init
 Encoding: 65587 -1 51
 GlifName: _.mim.init
-Width: 624
+Width: 626
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1839,23 +1852,20 @@ SplineSet
 -50 49 m 0
  -50 76 -27 100 -1 100 c 2
  18 100 l 2
- 86 100 130 124 164 182 c 2
- 222 279 l 2
- 272 365 320 373 366 373 c 0
- 367 373 l 0
- 478 373 560 240 560 119 c 0
- 560 77 550 35 527 2 c 0
- 503 -34 470 -51 426 -51 c 0
- 365 -51 284 -17 183 46 c 1
- 141 14 86 0 24 -0 c 2
+ 148 100 184 185 220 263 c 0
+ 260 351 312 387 363 387 c 0
+ 464 387 562 251 562 121 c 0
+ 562 14 510 -20 439 -20 c 0
+ 359 -20 258 23 185 48 c 1
+ 149 18 100 0 24 -0 c 2
  -1 -0 l 2
  -25 0 -50 24 -50 49 c 0
-423 57 m 0
- 449 57 460 70 460 97 c 0
- 460 150 419 249 354 251 c 0
- 316 251 295 208 279 181 c 2
- 251 135 l 1
- 291 103 375 57 423 57 c 0
+249 128 m 1
+ 303 108 376 79 423 79 c 0
+ 451 79 470 89 470 117 c 0
+ 470 157 411 282 356 283 c 0
+ 339 283 319 258 302 226 c 0
+ 282 190 266 157 249 128 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1931,19 +1941,22 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-124 129 m 0
- 124 284 214 380 298 380 c 0
- 391 380 486 274 491 40 c 1
+64 -244 m 1
+ 199 -208 382 -105 398 23 c 1
+ 367 11 321 0 275 -0 c 0
+ 274 0 271 0 270 -0 c 0
+ 194 0 104 32 104 133 c 0
+ 104 140 105 148 106 156 c 0
+ 121 313 204 400 290 400 c 0
+ 388 400 488 287 491 40 c 1
  489 -132 312 -278 87 -340 c 1
  64 -244 l 1
- 199 -208 382 -105 398 24 c 1
- 367 11 319 0 272 -0 c 0
- 197 0 124 29 124 129 c 0
-207 154 m 1
- 204 115 247 101 293 101 c 0
- 333 101 376 111 394 125 c 1
- 376 223 330 277 288 277 c 0
- 252 277 219 238 207 154 c 1
+187 154 m 1
+ 185 116 245 101 289 101 c 0
+ 291 101 293 101 295 101 c 0
+ 336 101 381 113 396 128 c 1
+ 381 238 333 299 286 299 c 0
+ 245 299 204 253 187 154 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -1951,7 +1964,7 @@ EndChar
 StartChar: _.vav.fina
 Encoding: 65591 -1 55
 GlifName: _.vav.fina
-Width: 569
+Width: 588
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -1959,22 +1972,23 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-124 130 m 0
- 124 285 214 380 298 380 c 0
- 382 380 469 293 487 100 c 1
- 569 100 l 1
- 569 -0 l 1
+64 -244 m 1
+ 191 -211 359 -118 393 -0 c 1
+ 273 -0 l 2
+ 197 0 104 30 104 133 c 0
+ 104 140 105 148 106 156 c 0
+ 121 314 204 400 290 400 c 0
+ 380 400 472 306 489 100 c 1
+ 588 100 l 1
+ 588 -0 l 1
  485 -0 l 1
  458 -154 294 -283 87 -340 c 1
  64 -244 l 1
- 191 -211 359 -118 393 -0 c 1
- 273 -0 l 2
- 197 0 124 29 124 130 c 0
-207 151 m 0
- 207 114 249 100 293 100 c 2
- 398 100 l 1
- 384 214 334 277 288 277 c 0
- 259 277 207 236 207 151 c 0
+187 154 m 1
+ 185 116 245 101 289 101 c 2
+ 400 101 l 1
+ 389 228 336 299 285 299 c 0
+ 244 299 204 253 187 154 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -2007,7 +2021,7 @@ EndChar
 StartChar: _.dal.fina
 Encoding: 65593 -1 57
 GlifName: _.dal.fina
-Width: 703
+Width: 683
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -2022,11 +2036,11 @@ SplineSet
  324 460 l 1
  406 518 l 1
  516 223 l 2
- 550 129 586 100 703 100 c 1
- 703 -0 l 1
- 609 0 531 15 479 81 c 1
- 416 23 342 0 269 0 c 0
- 197 0 125 22 64 54 c 1
+ 550 129 566 100 683 100 c 1
+ 683 -0 l 1
+ 589 0 523 15 476 79 c 1
+ 414 23 342 0 270 0 c 0
+ 198 0 126 22 64 54 c 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -2034,7 +2048,7 @@ EndChar
 StartChar: _.ree.isol
 Encoding: 65594 -1 58
 GlifName: _.ree.isol
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -2042,13 +2056,13 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 -244 m 1
- 204 -207 399 -99 399 43 c 0
- 399 92 375 155 314 256 c 1
- 400 319 l 1
- 475 190 489 112 489 44 c 0
- 489 -130 314 -278 87 -340 c 1
- 64 -244 l 1
+64 -234 m 1
+ 199 -187 361 -77 363 34 c 0
+ 363 76 360 149 294 257 c 1
+ 373 319 l 1
+ 448 190 462 112 462 44 c 0
+ 462 -121 305 -263 96 -329 c 1
+ 64 -234 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -2056,7 +2070,7 @@ EndChar
 StartChar: _.ree.fina
 Encoding: 65595 -1 59
 GlifName: _.ree.fina
-Width: 655
+Width: 608
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -2064,16 +2078,15 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 -244 m 1
- 204 -207 399 -99 399 43 c 0
- 399 92 375 155 314 256 c 1
- 400 319 l 1
- 414 296 424 276 436 252 c 0
- 473 179 528 100 655 100 c 1
- 655 -0 l 1
- 576 0 521 14 489 44 c 1
- 489 -130 314 -278 87 -340 c 1
- 64 -244 l 1
+373 319 m 1
+ 432 224 444 100 608 100 c 1
+ 608 -0 l 1
+ 529 0 490 15 462 43 c 1
+ 462 -121 305 -263 96 -329 c 1
+ 64 -234 l 1
+ 199 -187 361 -77 363 34 c 0
+ 363 76 360 149 294 257 c 1
+ 373 319 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -2081,7 +2094,7 @@ EndChar
 StartChar: _.he8.isol
 Encoding: 65596 -1 60
 GlifName: _.he8.isol
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -2089,18 +2102,18 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 165 m 0
- 64 230 95 310 172 403 c 1
- 155 418 136 434 116 450 c 1
- 202 513 l 1
- 375 375 437 260 437 173 c 0
- 437 63 335 0 236 -0 c 0
- 143 0 64 61 64 165 c 0
-145 172 m 0
- 145 126 175 100 236 100 c 0
- 285 100 345 117 345 172 c 0
- 345 211 315 270 226 355 c 1
- 173 280 145 217 145 172 c 0
+64 164 m 0
+ 64 233 96 320 170 417 c 1
+ 157 428 143 438 129 450 c 1
+ 202 527 l 1
+ 387 381 452 260 452 172 c 0
+ 452 61 349 0 250 -0 c 0
+ 136 0 64 62 64 164 c 0
+159 172 m 0
+ 159 126 189 100 250 100 c 0
+ 299 100 359 117 359 172 c 0
+ 359 211 328 270 239 355 c 1
+ 186 280 159 217 159 172 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -2182,7 +2195,7 @@ EndChar
 StartChar: _.he8.init
 Encoding: 65599 -1 63
 GlifName: _.he8.init
-Width: 747
+Width: 714
 VWidth: 1304
 GlyphClass: 1
 UnlinkRmOvrlpSave: 1
@@ -2190,35 +2203,35 @@ Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
--50 50 m 0
- -50 75 -26 100 -1 100 c 2
- 21 100 l 2
- 71 100 119 107 161 117 c 1
- 131 148 112 184 103 230 c 0
- 101 238 100 248 100 257 c 0
- 100 324 148 410 206 460 c 1
- 200 465 l 1
- 237 557 l 1
- 348 498 514 421 610 327 c 0
- 660 278 683 218 683 163 c 0
- 683 75 623 0 515 -0 c 0
- 436 0 340 13 260 49 c 1
- 195 18 121 0 52 -0 c 2
- -1 -0 l 1
- -26 1 -50 24 -50 50 c 0
-191 271 m 1
- 196 230 231 194 279 166 c 1
- 341 202 374 242 375 262 c 0
- 375 287 323 379 289 379 c 0
- 256 379 196 303 191 271 c 1
-375 124 m 1
- 423 109 474 101 518 101 c 0
- 519 101 518 101 519 101 c 0
- 568 101 591 122 591 153 c 0
- 591 197 545 260 467 306 c 1
- 461 311 l 1
- 462 301 463 294 463 287 c 0
- 463 229 429 172 375 124 c 1
+-50 49 m 0
+ -50 76 -27 100 -1 100 c 2
+ 100 100 l 2
+ 123 100 149 103 172 109 c 1
+ 123 145 90 191 90 248 c 0
+ 90 269 94 291 104 315 c 0
+ 123 363 164 414 211 445 c 1
+ 197 451 184 456 175 460 c 1
+ 206 554 l 1
+ 362 489 650 368 650 180 c 0
+ 650 130 629 75 580 15 c 0
+ 573 6 550 1 517 1 c 0
+ 458 1 368 16 285 48 c 1
+ 237 17 181 0 127 -0 c 2
+ -1 -0 l 2
+ -25 0 -50 24 -50 49 c 0
+278 161 m 1
+ 310 189 336 223 336 274 c 0
+ 336 344 311 372 279 372 c 0
+ 243 372 198 334 178 278 c 0
+ 176 272 175 267 175 261 c 0
+ 175 223 220 189 278 161 c 1
+423 294 m 0
+ 423 225 397 169 367 128 c 1
+ 420 112 471 102 503 102 c 0
+ 519 102 531 104 535 109 c 0
+ 553 129 560 151 560 171 c 0
+ 560 229 497 287 420 336 c 1
+ 422 322 423 308 423 294 c 0
 EndSplineSet
 Colour: ffda6b
 EndChar
@@ -3994,7 +4007,7 @@ EndChar
 StartChar: c.mim
 Encoding: 1605 1605 130
 GlifName: c.mim
-Width: 742
+Width: 734
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4011,7 +4024,7 @@ EndChar
 StartChar: c.kheh
 Encoding: 1582 1582 131
 GlifName: c.kheh
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4044,7 +4057,7 @@ EndChar
 StartChar: g.cheh.fina
 Encoding: 64379 64379 133
 GlifName: g.cheh.fina
-Width: 805
+Width: 815
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4074,7 +4087,7 @@ EndChar
 StartChar: g.feh.init
 Encoding: 65235 65235 135
 GlifName: g.feh.init
-Width: 466
+Width: 495
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4083,7 +4096,7 @@ AnchorPoint: "down" 162 -173 basechar 0
 AnchorPoint: "up" 127 964 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 132 757 2
+Refer: 68 -1 S 1 0 0 1 132 717 2
 Refer: 31 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -4143,7 +4156,7 @@ EndChar
 StartChar: g.mim.fina
 Encoding: 65250 65250 139
 GlifName: g.mim.fina
-Width: 862
+Width: 776
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4158,7 +4171,7 @@ EndChar
 StartChar: g.qaf.medi
 Encoding: 65240 65240 140
 GlifName: g.qaf.medi
-Width: 545
+Width: 605
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4192,22 +4205,22 @@ EndChar
 StartChar: g.ein.isol
 Encoding: 65225 65225 142
 GlifName: g.ein.isol
-Width: 718
+Width: 750
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
-AnchorPoint: "up" 420 714 basechar 0
+AnchorPoint: "up" 340 716 basechar 0
 AnchorPoint: "down" 390 -563 basechar 0
 LayerCount: 2
 Fore
-Refer: 24 -1 S 1 0 0 1 0 0 3
+Refer: 24 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
 
 StartChar: c.heh
 Encoding: 1581 1581 143
 GlifName: c.heh
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4285,7 +4298,7 @@ EndChar
 StartChar: g.gein.isol
 Encoding: 65229 65229 148
 GlifName: g.gein.isol
-Width: 718
+Width: 750
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4294,7 +4307,7 @@ AnchorPoint: "up" 375 958 basechar 0
 AnchorPoint: "down" 412 -552 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 240 797 2
+Refer: 68 -1 S 1 0 0 1 230 717 2
 Refer: 142 65225 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -4318,7 +4331,7 @@ EndChar
 StartChar: c.teh_gerd
 Encoding: 1577 1577 150
 GlifName: c.teh_gerd
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4350,7 +4363,7 @@ EndChar
 StartChar: g.heh.isol
 Encoding: 65185 65185 152
 GlifName: g.heh.isol
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4391,7 +4404,7 @@ EndChar
 StartChar: g.kheh.medi
 Encoding: 65192 65192 155
 GlifName: g.kheh.medi
-Width: 833
+Width: 823
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4440,7 +4453,7 @@ EndChar
 StartChar: g.ein.fina
 Encoding: 65226 65226 158
 GlifName: g.ein.fina
-Width: 666
+Width: 695
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4464,7 +4477,7 @@ AnchorPoint: "down" 119 -130 basechar 0
 AnchorPoint: "up" 173 769 basechar 0
 LayerCount: 2
 Fore
-Refer: 69 -1 S 1 0 0 1 16 539 2
+Refer: 69 -1 S 1 0 0 1 -24 539 2
 Refer: 126 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -4520,7 +4533,7 @@ EndChar
 StartChar: g.he_yeh.isol
 Encoding: 64420 64420 163
 GlifName: g.he_yeh.isol
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4538,7 +4551,7 @@ EndChar
 StartChar: g.teh.fina
 Encoding: 65174 65174 164
 GlifName: g.teh.fina
-Width: 1044
+Width: 1031
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4603,7 +4616,7 @@ EndChar
 StartChar: g.ein.init
 Encoding: 65227 65227 168
 GlifName: g.ein.init
-Width: 612
+Width: 545
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -4854,7 +4867,7 @@ EndChar
 StartChar: g.jim.fina
 Encoding: 65182 65182 183
 GlifName: g.jim.fina
-Width: 805
+Width: 815
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4931,7 +4944,7 @@ EndChar
 StartChar: g.mim.init
 Encoding: 65251 65251 188
 GlifName: g.mim.init
-Width: 624
+Width: 626
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -4955,7 +4968,7 @@ AnchorPoint: "down" 422 -195 basechar 0
 AnchorPoint: "up" 596 812 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 522 669 2
+Refer: 68 -1 S 1 0 0 1 522 592 2
 Refer: 20 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -4995,7 +5008,7 @@ EndChar
 StartChar: c.zheh
 Encoding: 1688 1688 192
 GlifName: c.zheh
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5075,7 +5088,7 @@ EndChar
 StartChar: c.jim
 Encoding: 1580 1580 197
 GlifName: c.jim
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5109,7 +5122,7 @@ EndChar
 StartChar: g.he8.isol
 Encoding: 65257 65257 199
 GlifName: g.he8.isol
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5192,7 +5205,7 @@ EndChar
 StartChar: g.vav.fina
 Encoding: 65262 65262 204
 GlifName: g.vav.fina
-Width: 569
+Width: 588
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5258,7 +5271,7 @@ EndChar
 StartChar: g.jim.medi
 Encoding: 65184 65184 208
 GlifName: g.jim.medi
-Width: 833
+Width: 823
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -5290,7 +5303,7 @@ EndChar
 StartChar: g.he8.init
 Encoding: 65259 65259 210
 GlifName: g.he8.init
-Width: 747
+Width: 714
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5320,7 +5333,7 @@ EndChar
 StartChar: g.heh.init
 Encoding: 65187 65187 212
 GlifName: g.heh.init
-Width: 786
+Width: 807
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5383,7 +5396,7 @@ EndChar
 StartChar: g.gein.init
 Encoding: 65231 65231 216
 GlifName: g.gein.init
-Width: 612
+Width: 545
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -5392,7 +5405,7 @@ AnchorPoint: "down" 195 -119 basechar 0
 AnchorPoint: "up" 249 942 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 212 699 2
+Refer: 68 -1 S 1 0 0 1 210 639 2
 Refer: 27 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -5566,7 +5579,7 @@ AnchorPoint: "up" 98 845 basechar 0
 LayerCount: 2
 Fore
 Refer: 125 -1 N 1 0 0 1 0 0 3
-Refer: 69 -1 S 1 0 0 1 20 569 2
+Refer: 69 -1 S 1 0 0 1 -60 569 2
 Colour: d7d7d7
 EndChar
 
@@ -5608,7 +5621,7 @@ EndChar
 StartChar: g.zal.fina
 Encoding: 65196 65196 225
 GlifName: g.zal.fina
-Width: 703
+Width: 683
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5616,7 +5629,7 @@ AnchorPoint: "down" 292 -98 basechar 0
 AnchorPoint: "up" 271 878 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 268 670 2
+Refer: 68 -1 S 1 0 0 1 258 670 2
 Refer: 57 -1 N 1 0 0 1 0 0 3
 PairPos2: "kernDal" g.kaf.isol.fa dx=-172 dy=0 dh=-172 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "kernDal" g.kaf.init.fa dx=-111 dy=0 dh=-111 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -5705,7 +5718,7 @@ EndChar
 StartChar: g.jim.init
 Encoding: 65183 65183 231
 GlifName: g.jim.init
-Width: 786
+Width: 807
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -5722,7 +5735,7 @@ EndChar
 StartChar: g.kheh.fina
 Encoding: 65190 65190 232
 GlifName: g.kheh.fina
-Width: 805
+Width: 815
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -5739,7 +5752,7 @@ EndChar
 StartChar: c.he_yeh
 Encoding: 1728 1728 233
 GlifName: c.he_yeh
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5793,7 +5806,7 @@ AnchorPoint: "down" 401 -162 basechar 0
 AnchorPoint: "up" 618 856 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 532 669 2
+Refer: 68 -1 S 1 0 0 1 522 592 2
 Refer: 21 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -5809,7 +5822,7 @@ AnchorPoint: "down" 325 -119 basechar 0
 AnchorPoint: "up" 455 899 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 362 670 2
+Refer: 68 -1 S 1 0 0 1 402 592 2
 Refer: 22 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -5881,7 +5894,7 @@ EndChar
 StartChar: g.feh.fina
 Encoding: 65234 65234 242
 GlifName: g.feh.fina
-Width: 1029
+Width: 1078
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -5889,7 +5902,7 @@ AnchorPoint: "up" 682 867 basechar 0
 AnchorPoint: "down" 488 -173 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 692 669 2
+Refer: 68 -1 S 1 0 0 1 702 629 2
 Refer: 29 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -5942,7 +5955,7 @@ EndChar
 StartChar: g.cheh.isol
 Encoding: 64378 64378 246
 GlifName: g.cheh.isol
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6126,7 +6139,7 @@ EndChar
 StartChar: g.ree.isol
 Encoding: 65197 65197 258
 GlifName: g.ree.isol
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -6211,7 +6224,7 @@ EndChar
 StartChar: g.kheh.isol
 Encoding: 65189 65189 259
 GlifName: g.kheh.isol
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6352,7 +6365,7 @@ EndChar
 StartChar: g.kheh.init
 Encoding: 65191 65191 268
 GlifName: g.kheh.init
-Width: 786
+Width: 807
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6386,7 +6399,7 @@ EndChar
 StartChar: g.jim.isol
 Encoding: 65181 65181 270
 GlifName: g.jim.isol
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6418,7 +6431,7 @@ EndChar
 StartChar: c.ein
 Encoding: 1593 1593 272
 GlifName: c.ein
-Width: 718
+Width: 750
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -6444,7 +6457,7 @@ AnchorPoint: "down" 282 -217 basechar 0
 AnchorPoint: "up" 299 884 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 212 599 2
+Refer: 68 -1 S 1 0 0 1 202 539 2
 Refer: 26 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -6481,7 +6494,7 @@ EndChar
 StartChar: g.cheh.medi
 Encoding: 64381 64381 276
 GlifName: g.cheh.medi
-Width: 833
+Width: 823
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6583,7 +6596,7 @@ EndChar
 StartChar: g.zeh.fina
 Encoding: 65200 65200 282
 GlifName: g.zeh.fina
-Width: 655
+Width: 608
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6683,7 +6696,7 @@ EndChar
 StartChar: g.peh.fina
 Encoding: 64343 64343 284
 GlifName: g.peh.fina
-Width: 1044
+Width: 1031
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6790,7 +6803,7 @@ EndChar
 StartChar: g.mim.medi
 Encoding: 65252 65252 291
 GlifName: g.mim.medi
-Width: 714
+Width: 717
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -6861,14 +6874,14 @@ AnchorPoint: "up" 162 964 basechar 0
 LayerCount: 2
 Fore
 Refer: 126 -1 N 1 0 0 1 0 0 3
-Refer: 70 -1 S 1 0 0 1 46 540 2
+Refer: 70 -1 S 1 0 0 1 -24 540 2
 Colour: d7d7d7
 EndChar
 
 StartChar: g.mim.isol
 Encoding: 65249 65249 296
 GlifName: g.mim.isol
-Width: 742
+Width: 734
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -6977,7 +6990,7 @@ EndChar
 StartChar: g.feh.medi
 Encoding: 65236 65236 303
 GlifName: g.feh.medi
-Width: 545
+Width: 605
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -6986,7 +6999,7 @@ AnchorPoint: "down" 217 -152 basechar 0
 AnchorPoint: "up" 217 888 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 214 679 2
+Refer: 68 -1 S 1 0 0 1 204 639 2
 Refer: 30 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -6994,7 +7007,7 @@ EndChar
 StartChar: c.cheh
 Encoding: 1670 1670 304
 GlifName: c.cheh
-Width: 768
+Width: 799
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -7230,7 +7243,7 @@ EndChar
 StartChar: g.zeh.isol
 Encoding: 65199 65199 318
 GlifName: g.zeh.isol
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -7338,7 +7351,7 @@ AnchorPoint: "down" 834 -303 basechar 0
 AnchorPoint: "up" 878 932 basechar 0
 LayerCount: 2
 Fore
-Refer: 70 -1 S 1 0 0 1 849 538 2
+Refer: 70 -1 S 1 0 0 1 839 538 2
 Refer: 12 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -7388,7 +7401,7 @@ AnchorPoint: "down" 249 -217 basechar 0
 AnchorPoint: "up" 195 899 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 208 670 2
+Refer: 68 -1 S 1 0 0 1 188 670 2
 Refer: 56 -1 N 1 0 0 1 0 0 3
 PairPos2: "kernDal" g.kaf.isol.fa dx=-140 dy=0 dh=-140 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "kernDal" g.kaf.init.fa dx=-140 dy=0 dh=-140 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -7419,7 +7432,7 @@ EndChar
 StartChar: g.ree.fina
 Encoding: 65198 65198 325
 GlifName: g.ree.fina
-Width: 655
+Width: 608
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -7679,7 +7692,7 @@ EndChar
 StartChar: c.gein
 Encoding: 1594 1594 339
 GlifName: c.gein
-Width: 718
+Width: 750
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -7774,7 +7787,7 @@ EndChar
 StartChar: g.teh_gerd.isol
 Encoding: 65171 65171 345
 GlifName: g.teh_gerd.isol
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -7855,7 +7868,7 @@ EndChar
 StartChar: g.cheh.init
 Encoding: 64380 64380 350
 GlifName: g.cheh.init
-Width: 786
+Width: 807
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -7872,7 +7885,7 @@ EndChar
 StartChar: l.laa.isol
 Encoding: 65275 65275 351
 GlifName: l.laa.isol
-Width: 613
+Width: 574
 VWidth: 0
 GlyphClass: 3
 Flags: HMW
@@ -7918,7 +7931,7 @@ EndChar
 StartChar: g.zheh.fina
 Encoding: 64395 64395 354
 GlifName: g.zheh.fina
-Width: 655
+Width: 608
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -8055,7 +8068,7 @@ EndChar
 StartChar: g.beh.fina
 Encoding: 65168 65168 358
 GlifName: g.beh.fina
-Width: 1044
+Width: 1031
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -8108,7 +8121,7 @@ AnchorPoint: "down" 314 -195 basechar 0
 AnchorPoint: "up" 481 858 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 382 669 2
+Refer: 68 -1 S 1 0 0 1 392 592 2
 Refer: 23 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -8116,7 +8129,7 @@ EndChar
 StartChar: g.qaf.init
 Encoding: 65239 65239 362
 GlifName: g.qaf.init
-Width: 466
+Width: 495
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -8197,7 +8210,7 @@ EndChar
 StartChar: c.he8
 Encoding: 1607 1607 367
 GlifName: c.he8
-Width: 501
+Width: 516
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8276,7 +8289,7 @@ EndChar
 StartChar: g.gein.fina
 Encoding: 65230 65230 372
 GlifName: g.gein.fina
-Width: 666
+Width: 695
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -8285,7 +8298,7 @@ AnchorPoint: "up" 289 910 basechar 0
 AnchorPoint: "down" 368 -574 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 262 679 2
+Refer: 68 -1 S 1 0 0 1 262 629 2
 Refer: 25 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -8302,7 +8315,7 @@ AnchorPoint: "up" 651 962 basechar 0
 AnchorPoint: "down" 436 -188 basechar 0
 LayerCount: 2
 Fore
-Refer: 68 -1 S 1 0 0 1 582 757 2
+Refer: 68 -1 S 1 0 0 1 582 717 2
 Refer: 28 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -8334,7 +8347,7 @@ AnchorPoint: "down" 87 -184 basechar 0
 AnchorPoint: "up" 143 897 basechar 0
 LayerCount: 2
 Fore
-Refer: 70 -1 S 1 0 0 1 39 579 2
+Refer: 70 -1 S 1 0 0 1 -61 579 2
 Refer: 125 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -8355,7 +8368,7 @@ EndChar
 StartChar: g.heh.fina
 Encoding: 65186 65186 377
 GlifName: g.heh.fina
-Width: 805
+Width: 815
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8385,7 +8398,7 @@ EndChar
 StartChar: c.zee
 Encoding: 1586 1586 379
 GlifName: c.zee
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8400,7 +8413,7 @@ EndChar
 StartChar: g.zheh.isol
 Encoding: 64394 64394 380
 GlifName: g.zheh.isol
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8486,7 +8499,7 @@ EndChar
 StartChar: g.seh.fina
 Encoding: 65178 65178 381
 GlifName: g.seh.fina
-Width: 1044
+Width: 1031
 VWidth: 1304
 GlyphClass: 2
 UnlinkRmOvrlpSave: 1
@@ -8503,7 +8516,7 @@ EndChar
 StartChar: g.heh.medi
 Encoding: 65188 65188 382
 GlifName: g.heh.medi
-Width: 833
+Width: 823
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8548,7 +8561,7 @@ EndChar
 StartChar: c.ree
 Encoding: 1585 1585 385
 GlifName: c.ree
-Width: 553
+Width: 526
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8563,7 +8576,7 @@ EndChar
 StartChar: g.dal.fina
 Encoding: 65194 65194 386
 GlifName: g.dal.fina
-Width: 703
+Width: 683
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8672,7 +8685,7 @@ EndChar
 StartChar: l.laa.fina
 Encoding: 65276 65276 393
 GlifName: l.laa.fina
-Width: 730
+Width: 691
 VWidth: 0
 GlyphClass: 3
 UnlinkRmOvrlpSave: 1
@@ -8699,7 +8712,7 @@ AnchorPoint: "down" 338 -442 basechar 0
 AnchorPoint: "up" 509 823 basechar 0
 LayerCount: 2
 Fore
-Refer: 69 -1 S 1 0 0 1 414 539 2
+Refer: 69 -1 S 1 0 0 1 414 519 2
 Refer: 32 -1 N 1 0 0 1 0 0 3
 Colour: d7d7d7
 EndChar
@@ -8720,7 +8733,7 @@ EndChar
 StartChar: g.vav_hamzeUp.fina
 Encoding: 65158 65158 396
 GlifName: g.vav_hamzeU_p.fina
-Width: 569
+Width: 588
 VWidth: 1304
 GlyphClass: 2
 Flags: HMW
@@ -8890,51 +8903,51 @@ EndChar
 
 StartChar: _.la.isol.fa
 Encoding: 65667 -1 404
-Width: 613
+Width: 574
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 682 m 1
- 144 727 l 1
- 348 164 l 1
- 265 133 l 1
- 64 682 l 1
-140 44 m 1
- 370 96 459 142 459 260 c 2
- 459 800 l 1
- 549 800 l 1
- 549 284 l 2
- 549 133 531 25 154 -51 c 1
- 140 44 l 1
+64 573 m 1
+ 144 619 l 1
+ 309 164 l 1
+ 225 133 l 1
+ 64 573 l 1
+101 44 m 1
+ 331 96 420 142 420 260 c 2
+ 420 800 l 1
+ 510 800 l 1
+ 510 284 l 2
+ 510 133 491 25 114 -51 c 1
+ 101 44 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
 
 StartChar: _.la.fina.fa
 Encoding: 65668 -1 405
-Width: 730
+Width: 691
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 682 m 1
- 144 727 l 1
- 348 164 l 1
- 265 133 l 1
- 64 682 l 1
-140 44 m 1
- 370 96 459 142 459 260 c 2
- 459 800 l 1
- 549 800 l 1
- 549 213 l 1
- 582 127 618 100 730 100 c 1
- 730 -0 l 1
- 630 0 548 17 496 93 c 1
- 446 35 347 -12 154 -51 c 1
- 140 44 l 1
+64 573 m 1
+ 144 619 l 1
+ 309 164 l 1
+ 225 133 l 1
+ 64 573 l 1
+101 44 m 1
+ 331 96 420 142 420 260 c 2
+ 420 800 l 1
+ 510 800 l 1
+ 510 213 l 1
+ 543 127 579 100 691 100 c 1
+ 691 -0 l 1
+ 591 0 509 17 457 93 c 1
+ 407 35 307 -12 114 -51 c 1
+ 101 44 l 1
 EndSplineSet
 Colour: ffda6b
 EndChar
