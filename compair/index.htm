@@ -30,16 +30,26 @@
 				src: url('Nika-Regular.ttf');
 				font-weight: normal;
 			}
-					
+				            			@font-face {
+				font-family: 'Behdad';
+				src: url('Behdad-Regular.ttf');
+				font-weight: normal;
+			}	
+                    
+            			@font-face {
+				font-family: 'Farbod';
+				src: url('Farbod-Regular.ttf');
+				font-weight: normal;
+			}                    
 			p {
 				margin-bottom: 10px;
 			}
             h2{
                 margin:0px;
                 padding:0px;
-                background : red;
+                background : rgba(173, 170, 176, 0.69);
                 color:#fff;
-                height:60px;
+               font-weight:400;
                 text-align:center;
                 font-size : 20px !important;
             }
@@ -61,6 +71,7 @@
 				background-color: #fff;
 				color: #333;
 				text-align: right;
+                flex: 1 0 250px;
 			}
 
             p{
@@ -69,6 +80,42 @@
             
             #wrap {
                 display:flex;
+                margin-top:50px;
+            }
+            
+            #wrap.modeRow{
+                flex-direction:column;
+            }
+            
+            .modeRow .sample{
+                 flex: 1 0 auto;
+                 display:flex;
+            }
+            
+            .modeRow .sample h2{
+                flex: 1 0 100px;
+                margin:auto;
+                /* Safari */
+-webkit-transform: rotate(-90deg);
+
+/* Firefox */
+-moz-transform: rotate(-90deg);
+
+/* IE */
+-ms-transform: rotate(-90deg);
+
+/* Opera */
+-o-transform: rotate(-90deg);
+            }
+            
+            #menu{
+                position:fixed;
+                text-align:center;
+                display:block;
+                padding:20px;
+                top:0;
+                background:rgba(178, 196, 234, 0.5);
+                font-family:tahoma;
             }
 		</style>
 
@@ -77,15 +124,17 @@
 	<body contenteditable="false">
 
 	
-<div>
+<div id="menu">
     <label> سایز فونت</label>
         <input type="number" id="num" value=14></input>
-	
+	<label> حالت سطری</label>
+            <input type="checkbox" id="mode" ></input>
+
 	</div>
     
     
     <div id="wrap">
-		<section class="sample" style="font-family:pfont;">
+		<section class="sample" style="font-family:pfont;font-size:calc(100% - 1px);">
 
 			<h2>پی فونت</h2>
 
@@ -93,15 +142,7 @@
 			</p>
 
 		</section>
- <section class="sample" style="font-family:Ganjname;">
-
-			<h2>گنجنامه</h2>
-			<p class="first">چون زیبایی مفردات حروف خیلی اهمیت ندارد. وقتی کنار هم قرار می‌گیرند بسیار اهمیت دارد که ببینید حالا باز هم خواندنی است؟ یک سری حروف زیبا لزوما کنار هم خواندنی نیستند. ممکن است شما را به یک مسئله معمایی سوق دهد که وقتی این‌گونه نوشته شده چه منظوری داشته؟  
-			</p>
-
-
-		</section>
-        		<section class="sample" style="font-family:Nika;">
+            		<section class="sample" style="font-family: Nika; font-size: calc(100% + 1px);">
 
 			<h2>نیکا</h2>
 
@@ -110,6 +151,32 @@
 
 
 		</section>
+    		<section class="sample" style="font-family: Behdad; font-size: calc(100% + 1px);">
+
+			<h2>بهداد</h2>
+
+			<p class="first">چون زیبایی مفردات حروف خیلی اهمیت ندارد. وقتی کنار هم قرار می‌گیرند بسیار اهمیت دارد که ببینید حالا باز هم خواندنی است؟ یک سری حروف زیبا لزوما کنار هم خواندنی نیستند. ممکن است شما را به یک مسئله معمایی سوق دهد که وقتی این‌گونه نوشته شده چه منظوری داشته؟  
+			</p>
+
+
+		</section>        
+		<section class="sample" style="font-family:farbod;font-size:calc(100% + 2.5px);"">
+
+			<h2>فربد</h2>
+
+			<p class="first">چون زیبایی مفردات حروف خیلی اهمیت ندارد. وقتی کنار هم قرار می‌گیرند بسیار اهمیت دارد که ببینید حالا باز هم خواندنی است؟ یک سری حروف زیبا لزوما کنار هم خواندنی نیستند. ممکن است شما را به یک مسئله معمایی سوق دهد که وقتی این‌گونه نوشته شده چه منظوری داشته؟  
+			</p>
+
+		</section>        
+ <section class="sample" style="font-family:Ganjname;">
+
+			<h2>گنجنامه</h2>
+			<p class="first">چون زیبایی مفردات حروف خیلی اهمیت ندارد. وقتی کنار هم قرار می‌گیرند بسیار اهمیت دارد که ببینید حالا باز هم خواندنی است؟ یک سری حروف زیبا لزوما کنار هم خواندنی نیستند. ممکن است شما را به یک مسئله معمایی سوق دهد که وقتی این‌گونه نوشته شده چه منظوری داشته؟  
+			</p>
+
+
+		</section>
+    
         
         
 
@@ -125,11 +192,22 @@
  <script type="text/javascript" src="jquery-2.2.3.min.js"></script>
 <script type="text/javascript">
 $('#num').val(14);
+$('#mode').prop('checked',0);
 $('#num').on('input',function() {
 		var val = $(this).val()+"px";
 		
 		$('#wrap').css('font-size',val);
 	});
+    
+$('#mode').on('change',function() {
+		var val = $(this).is(':checked');
+		if(val){
+        
+            $('#wrap').addClass('modeRow');
+        }else{
+            $('#wrap').removeClass('modeRow');
+        }
+	});    
 </script>        
 
 	</body>
