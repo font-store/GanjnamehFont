@@ -1,81 +1,62 @@
-# GanjName Font Family project
+# About - درباره
 
-GanjName is a  Persian/Arabic typeface, suitable for text.
+- Name : Ganjname 
+- Descrption : Ganjname is a Modern Monoline Persian/Arabic font.
+- Designer : [Mohammad Saleh Souzanchi](http://github.com/zoghal)
+- Development : [Mohammad Saleh Souzanchi](http://github.com/zoghal)
+- Style : Naskh Modern
+- Usage : Print & Publishin, High Resolution Screen or More than 12px font size
+- Version : 0.0.4
+- Grid Proportions: 8 Dot Point
+- Download : [here](https://github.com/font-store/ShahabFont/releases/latest)
 
-this is a new redesign of [Iranian Font Family](https://github.com/font-store/font-Iranian) by Neviseh Pardaz Co. Ltd. (www.nevisa.com), Hooman Mehr, Hadi Navid.
+<ul  dir="rtl">
 
-Iranian Font family is discontinued develop and support
+<li>نام : گنجنامه</li>
+<li>توضیحات : گنجنامه یک فونت فارسی/عربی برای مصارف چاپ  و نشر رومیزی، وب و موبایل می‌باشد.</li>
+<li>طراح تایپ‌فیس : <a href="http://github.com/zoghal">محمد صالح سوزنچی</a></li>
+<li>توسعه‌دهنده : <a href="http://github.com/zoghal">محمد صالح سوزنچی</a></li>
+<li>سبک : تحصیلی، براساس خط نسخ مدرن </li>
+<li>گرید تناسبات: ۸ نقطه  </li>
+<li>کاربرد : چاپ و نشر رومیزی، ، صفحه نمایش با کیفیت بالا یا سایز بیشتر از ۱۲ پیکسل</li>
+<li>ویرایش:  ۰.۰.۴</li>
+<li>دانلود : <a href="https://github.com/font-store/font-GanjNameh/releases/latest">کلیک کنید</a></li>
 
-----
-گنجنامه تایپ‌فیس فارسی/عربی برای متن و جهت استفاده از سیر تا پیاز می‌باشد.
-گنجنامه یک خانواده از سبک‌های سنس و سریف و مونو اسپیس خواهد بود.
-
-این فونت بازطراحی شده فونت مطرح و معروف ایرانین می‌باشد که توسط هومن مهر و هادی نوید و به سفارش سازمان فناوری اطلاعات(فکر میکنم) طراحی و پیاده‌سازی شد. اما به دلایلی همچون اعمال نشدن لایسنس صحیح به اعتقاد عده‌ای نمی‌تواند فونت آزاد باشد و …
-
-# Status:
- version : v0.0.3   
- 
- demo : [here](http://font-store.github.io/font-GanjNameh/online/)
- 
-صفحه مقایسه با دیگر فونت‌‌های آزاد :  [here](http://font-store.github.io/font-GanjNameh/compair/)
-
-
-
-# identity of project :
-
-Classifaction : Sans & Serif & MonoSpace
-
-Origin Designers : Hooman Mehr, Hadi Navid.
-
-ReDesigner : [Mohammad Saleh Souzanchi](http://github.com/zoghal/)
+</ul>
 
 
 
-# سرگذشت
- این خانواده فونت گنجنامه بازطراحی شده فونت ایرانین می‌باشد.
-
-این بازطراحی حدود ۱.۵ سال پیش انجام شده بود اما به دلایلی صلاح نبود منتشر شود. تا به امروز که در فهرست ۲۰ فونت آزاد قرار گرفت با یک هویت جدید.
 
 
-# درباره فونت
+#  Demo & Tests - دمو و تست‌ها
 
-بعد از تحویل مستندات فونت ایرانین از مهندس هومن مهر و تصحیح لایسنس آن به OFL متاسفانه جمعی از صاحب‌نظران جامعه آزاد ایران نپذیرفتند این تغییر لایسنس را و گفتند که با تغییر لایسنس این فونت آزاد نمی‌شود!!؟.
-
-از طرف فونتی به نام (http://fontiran.com/)[فونت ایران] که بسیار مورد توجه جامعه قرار گرفت باعث سردرگرمی و اشتباهات لفظی بسیاری می‌گشت.
-
-لذا تصمیم گرفتم برای اینکه دیگر هیچ تردیدی در آزاد بودند این فونت بوجود نیاد و مشکلات دیگر هم رفع شود. تغییرات جدید را با یک نام جدید منتشر نمایم.
-
-
-# وضعیت توسعه
-
-گنجنامه در حال توسعه می‌باشد. لطفا تستش و نظرتان را با ما در میان بگذارید.(ناراحت میشیم اگر تعارف کنید، و نظرتون رو به ما نگویید‌ها :دی .)
-  در صورت مشاهده هرگونه مشکل، نقص، یا پیشنهاد و انتقاد  لطفا آن را با ما درمیان بگذارید.
-  
-- تقریبا فاز طراحی به پایان رسیده، و باید در متن مورد تست و بازبینی قرار گیرد.  
-
-# برنامه توسعه
-
-طبق آخرین تست این فونت در سبک سنس حداقل ۸ و حداکثر ۹ وزن می‌تواند داشته باشد.
-----
-
-# حمایت و مشارکت در توسعه فونت گنجنامه
-
-پروسه و روند توسعه یک فونت کاریست بسیار ظریف و دقیق و بسیار زمان‌بر که میبایست با صبر و حوصله فراوان صورت گیرد. توسعه یک فونت شاید توسط یک شخص یا گروه در ابتدا آغاز گردد، اما در نهایت این فونت باید مورد تایید مصرف کنندگانش قرار گیرید و این به این معنی است که هر فونتی خواسته یا ناخواسته میبایست مخاطبین خود را مورد پوشش قرار داده  و نظرات آنها را دریافت و در تغییرات لحاظ نماید. و این تنها راهی اسیت که میشود به یک فونت فونت خوب و ایدعال دست پیدا کرد.
-
-شما می‌توانید به دو صورت در توسعه این فونت مشارکت یا با ما سهیم شوید:
-
-۱- در ابتدا باید یاد آوری نماییم که فراموش نکنید که این فونت یک پروژه آزاد هست، متعلق به یک شخص و یا گروه خاص نمی‌باشد ویعنی مالکیت عمومی دارد. پس خیلی راحت و بدون هیچ عذر و بهانه‌ای در مورد فونت، چهره حروف  و … نظرات خود را با ما درمیان بگذارید. یا اصلا آستین بالا زده و با ما در بهتر شدن و تکمیل این فونت همکاری نمایید. بنده هیچ ناراحت نمی‌شوم برعکس شدیدا منتظر انتقاد و پیشنهادات شما هستم.
+- Tecnical Tester :  -
+- Survey 1 : -
+- Typography example : [here](http://libre.font-store.ir/font-GanjNameh/typography-persian.htm)
+- Paper demo : [here](http://http://libre.font-store.ir/font-GanjNameh/paper-persian.htm)
 
 
-۲- راه دیگر حمایت مالی ایست.خوب میدانید که در شرایط فعلی ایران مخارج زندگی بسیار پر هزینه است، و اینگونه پروژه‌ها نیاز به مشارکت عمومی یا اسپانسر مالی دارد.  شما می توانید با حمایت مالی که در توانتان هست در رسالت «حفظ و صیانت و گسترش خط فارسی در رسانه‌های دیجیتال» با من سهیم شوید تا با هم وبه کمک هم و  همکاری هم از این هویت ملی پاسداری نماییم.
-
-جهت حمایت مالی هم می‌توانید از طریق این [لینک]   (https://www.payping.ir/d/a5ou) اقدام نمایید.
 
 
-## بزرگوارانی که گنجنامه رو مورد حمایت خود  قرار دادند:
+<ul  dir="rtl">
+
+<li>نمونه تایپوگرافی : <a href="http://libre.font-store.ir/font-GanjNameh/typography-persian.htm">کلیک کنید</a></li>
+<li>مقاله نمایشی : <a href="http://libre.font-store.ir/font-GanjNameh/paper-persian.htm">کلیک کنید</a></li>
+</ul>
 
 
-total(rials) : ۰ تومان
+
+
+
+# Donation
+امیدواریم این فونت مورد پسندتان قرار گرفته باشد. خوشحال می‌شویم  اختصاص مبلغی هر چند جزیی مرا حمایت نمایید و باعث دلگرمی  ما شوید تا بتوانیم فونت‌های بهتری برای جامعه فارسی زبان تولید نماییم.
+[جهت حمایت مالی کلیک نمایید](https://www.payping.ir/d/a5ou)
+
+
+## بزرگوارانی که شهاب را مورد حمایت خود  قرار دادند:
+
+
+total(rials) : 0 تومان
 
 total(dollar) : 0$
 
@@ -84,12 +65,11 @@ total(dollar) : 0$
 
 
 
+# Preview
+![Intro](http://libre.font-store.ir/ShahabFont/docs/1.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/2.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/3.png)
 
-## Preview
-![Intro](docs/cell1.png)
-![Intro](docs/cell2.png)
-![Intro](docs/cell3.png)
-![Intro](docs/cell4.png)
-![Intro](docs/cell5.png)
-![Intro](docs/cell6.png)
-![Intro](docs/cell8.png)
+
+
+

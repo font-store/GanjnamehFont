@@ -13,6 +13,6 @@ viewBox="0 0 1300 1056"
  </defs>
  <g id="_100:master">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0" d="M711 779l180 0 0 -61 -101 0 0 -655 101 0 0 -60 -180 0 0 776z"/>
+  <polygon class="fil0" points="711,779 891,779 891,718 790,718 790,63 891,63 891,3 711,3 "/>
  </g>
 </svg>
