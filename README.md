@@ -66,9 +66,9 @@ total(dollar) : 0$
 
 
 # Preview
-![Intro](http://libre.font-store.ir/ShahabFont/docs/1.png)
-![Intro](http://libre.font-store.ir/ShahabFont/docs/2.png)
-![Intro](http://libre.font-store.ir/ShahabFont/docs/3.png)
+![Intro](http://libre.font-store.ir/font-GanjNameh/docs/1.png)
+![Intro](http://libre.font-store.ir/font-GanjNameh/docs/2.png)
+![Intro](http://libre.font-store.ir/font-GanjNameh/docs/3.png)
 
 
 
